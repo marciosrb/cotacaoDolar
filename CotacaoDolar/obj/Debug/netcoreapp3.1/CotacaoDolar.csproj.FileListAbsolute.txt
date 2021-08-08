@@ -1,0 +1,17 @@
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csprojAssemblyReference.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolarMS.FrmCotacaoDolar.resources
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.GenerateResource.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.AssemblyInfo.cs
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.exe
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.deps.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.runtimeconfig.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.runtimeconfig.dev.json
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.pdb
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.CopyComplete
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.dll
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.pdb
+C:\Users\m.siqueira.ribeiro\OneDrive - Avanade\Desktop\Márcio\Estudos\Repos_estudo\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.genruntimeconfig.cache
